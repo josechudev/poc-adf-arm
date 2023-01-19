@@ -1,0 +1,10 @@
+{
+	"name": "mtlxbuslinkedservice",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://mtlxridekeyvault9f53e639.vault.azure.net/"
+		}
+	}
+}
