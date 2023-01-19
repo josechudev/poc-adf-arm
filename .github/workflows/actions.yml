@@ -43,5 +43,5 @@ jobs:
         with:
           # Artifact name
           name: ${{ steps.vars.outputs.branch }}:${{ steps.vars.outputs.sha_short }}
-          path: /adf
+          path: adf/
           if-no-files-found: error
